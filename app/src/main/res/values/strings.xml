@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">GYM FITNESS CLUB</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="txtview">Aun no tienes cuenta??</string>
+    <string name="registro_de_usuario">Registro de Usuario</string>
+    <string name="usuario2">Usuario</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento</string>
+    <string name="link"> <a href="http://www.registrousuario.com" rel="nofollow"> Registrate  Aquí! </a> </string>
+
+    <string name="estatura">Estatura</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="registrar">Registrar Usuario</string>
+    <string name="registro_evaluaciones">Registar Actividad</string>
+    <string name="fecha">Fecha</string>
+    <string name="peso_kg">Peso (Kg.)</string>
+    <string name="imc_desconocido">Calculando...</string>
+    <string name="registrar_imc">Registrar IMC</string>
+    <string name="datos">datos</string>
+    <string name="eliminar_registro">Eliminar Registro</string>
+    <string name="volver">Volver</string>
+    <string name="imc">IMC :</string>
+    <string name="fechaCrud">Fecha</string>
+    <string name="actualizar_registro">Actualizar Registro</string>
+    <string name="pesoCrud">Peso</string>
+    <string name="imc2">IMC :</string>
+    <string name="busqueda_por_fecha">Busqueda por Fecha</string>
+    <string name="buscar_por_fecha">Buscar por Fecha</string>
+    <string name="volver2">volver</string>
+    <string name="desde">Desde</string>
+    <string name="hasta">Hasta</string>
+    <string name="buscar">Buscar</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="repetir_contrase_a">Repetir Contraseña</string>
+</resources>
